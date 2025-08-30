@@ -21,7 +21,7 @@ We do not collect sensitive categories of data unless explicitly stated.
 
 <br>
 
-2. How We Use Your Information
+How We Use Your Information
 We use your data to:
 Provide and improve the app and website.
 Respond to support requests and feedback.
@@ -30,7 +30,7 @@ Communicate important updates (e.g. security or policy changes).
 
 <br>
 
-3. Legal Basis for Processing (GDPR)
+Legal Basis for Processing (GDPR)
 We process personal data under these legal bases:
 Consent – if you opt in to analytics, newsletters, or marketing.
 Contract – to provide the app and its features.
@@ -39,19 +39,19 @@ Legal obligation – when required to comply with laws.
 
 <br>
 
-4. Sharing of Information
+Sharing of Information
 We do not sell your personal data. We may share limited data with:
 Service providers (e.g. analytics, crash reporting, hosting) under strict data processing agreements.
 Legal authorities if required by law.
 
 <br>
 
-6. Data Retention
+Data Retention
 We keep your personal data only as long as necessary for the purposes described in this policy, unless a longer retention is required by law.
 
 <br>
 
-6. Your Rights (under GDPR)
+Your Rights (under GDPR)
 You have the right to:
 Access the personal data we hold about you.
 Request correction or deletion of your data.
@@ -62,25 +62,25 @@ To exercise these rights, contact us at [brolaf@outlook.com].
 
 <br>
 
-8. International Transfers
+International Transfers
 If your data is transferred outside the European Economic Area (EEA), we ensure adequate safeguards (such as EU Standard Contractual Clauses).
 
 <br>
 
-8. Security
+Security
 We take appropriate measures to protect your data from unauthorized access, loss, or misuse. However, no system is 100% secure.
 
 <br>
 
-9. Children’s Privacy
+Children’s Privacy
 Our app is not directed to children under 13, and we do not knowingly collect personal data from children.
 
 <br>
 
-10. Changes to This Policy
+Changes to This Policy
 We may update this Privacy Policy occasionally. The latest version will always be available at (https://jng37.github.io/Hang-Timer/privacypolicy/)
 
 <br>
 
-11. Contact Us
+Contact Us
 If you have questions or concerns, please contact us at [brolaf@outlook.com]
