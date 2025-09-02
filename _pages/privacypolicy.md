@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -30,9 +30,10 @@ include_in_header: true
   </style>
 </head>
 <body>
+<p>  <p> <b>TLDR</b>: We collect as much data as you would expect a timer app to collect
+</p>
   <h1>Privacy Policy</h1>
   <p><strong>Last updated:</strong> August 31, 2025</p>
-
   <p>Your privacy is important to us. This Privacy Policy explains how <strong>Daily Hang Timer</strong> ("we", "our", or "us") handles personal data when you use our iOS application and our website.</p>
 
   <h2>1. Information We Collect</h2>
