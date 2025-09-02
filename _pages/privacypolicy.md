@@ -30,7 +30,7 @@ include_in_header: true
   </style>
 </head>
 <body>
-<p>  <p> <b>TLDR</b>: We collect as much data as you would expect a timer app to collect
+<p> <b>TLDR</b>: We collect as much data as you would expect a timer app to collect. Hang away!
 </p>
   <h1>Privacy Policy</h1>
   <p><strong>Last updated:</strong> August 31, 2025</p>
