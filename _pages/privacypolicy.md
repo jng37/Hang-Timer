@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 <!doctype html>
 <html lang="en">
 <head>
