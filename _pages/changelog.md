@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-Here you will see latest updates to the app
+Here you will see latest updates to the app, though admittedly the dev queue is short (empty). It's a timer..
 ________
 <br>
 
